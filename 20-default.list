@@ -1,0 +1,10 @@
+# os-specific listings first
+yaml file:///home/ros/2021-07-12-11-35-02-ros-osx-homebrew.yaml osx
+
+# generic
+yaml file:///home/ros/2021-07-12-11-38-16-ros-base.yaml
+yaml file:///home/ros/2021-07-12-11-39-47-ros-python.yaml
+yaml file:///home/ros/2021-07-12-11-41-16-ros-ruby.yaml
+gbpdistro file:///home/ros/2021-07-12-11-42-59-ros-fuerte.yaml fuerte
+
+# newer distributions (Groovy, Hydro, ...) must not be listed anymore, they are being fetched from the rosdistro index.yaml instead
